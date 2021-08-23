@@ -1,0 +1,4 @@
+Links = //h2/a/@href
+Título = //div[@class="row OpeningPostNormal"]//h2/span/text()
+Resumen = //div[@class="lead"]//p/text()
+Body = //div[@class="html-content"]/p/text()
